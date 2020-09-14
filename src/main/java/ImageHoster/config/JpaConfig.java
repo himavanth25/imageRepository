@@ -1,3 +1,4 @@
+//JPA Config file
 package ImageHoster.config;
 
 import org.springframework.context.annotation.Bean;

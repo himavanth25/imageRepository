@@ -1,3 +1,4 @@
+//Tag Model
 package ImageHoster.model;
 
 import javax.persistence.*;

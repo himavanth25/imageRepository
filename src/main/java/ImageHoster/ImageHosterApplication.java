@@ -1,3 +1,4 @@
+//ImageHoster Main Application
 package ImageHoster;
 
 import org.springframework.boot.SpringApplication;
